@@ -1,0 +1,5 @@
+UL { 
+    list-style-type: square; /* Маркеры в виде квадрата */
+    list-style-position: inside; /* Маркеры размещаются за пределами текстового блока */
+    color: navy; /* Цвет текста списка */
+   }
